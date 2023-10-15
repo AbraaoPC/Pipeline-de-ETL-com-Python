@@ -6,7 +6,7 @@ Acessar uma planilha do Excel com dados de Alunos da rede publica e calcular a m
 |  Arquivo                              |  Resumos                                          |
 |---------------------------------------|---------------------------------------------------|
 | Planilha 2 - Dados para Análise.xlsx  | Arquivo com os dados para análise                 |
-| Desempenho_escolar.ipynb              | Arquivo do Google Notebook com o codigo           |  
+| Desempenho_escolar.ipynb              | Arquivo do Jupyter Notebook com o codigo          |  
 
 ```
 Obs: Caso o aluno não tenha as 4 notas informada pode ser que não tenha ainda realizado as provas.
